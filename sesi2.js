@@ -1,0 +1,1 @@
+let name = "Tugas Riska" ;
